@@ -15,5 +15,3 @@ if a[1].include?("Max")
   puts "#{a[1]} has rating: "+convert_rating(a[7].to_f)
 end
 }
-    	
-
